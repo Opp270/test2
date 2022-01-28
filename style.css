@@ -5,6 +5,10 @@
     color: #FFF;
 }
 
+body{
+ background-color:  #101318;   
+}
+
 .cont{
     width: 100%;
     height: 96vh;
